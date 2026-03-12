@@ -40,3 +40,4 @@ The model's performance should be evaluated using appropriate metrics such as ac
 
 ## Conclusion
 This minor project aims to leverage machine learning techniques to detect anxiety, providing a valuable tool for early intervention and support. By following the outlined objectives and steps, this project has the potential to contribute to the growing field of mental health technology, ultimately improving the lives of individuals struggling with anxiety disorders.
+   
