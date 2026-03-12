@@ -23,7 +23,7 @@ Deployment (Optional): If resources allow, deploy the trained model as an applic
 Collecting relevant data is a critical first step in any machine learning project. In this case, data should include a combination of structured (e.g., demographic information, medical history) and unstructured (e.g., text-based responses, surveys) data that can provide insights into an individual's anxiety levels.
 
 ## Data Preprocessing
-Raw data often requires cleaning and preprocessing to be usable in machine learning models. This step may involve handling missing values, normalizing or scaling numerical features, and encoding categorical variables.
+Raw data often requires cleaning and preprocessing to be usable in machine learning models. This step may involve handling missing values, normalizing or scaling numerical features, and encoding categorical variables. 
 
 ## Feature Selection and Engineering
 Selecting the most relevant features and potentially creating new ones can significantly impact the model's performance. For anxiety detection, features related to behavior, speech patterns, or sentiment analysis of text responses may be considered.
